@@ -1,1 +1,1 @@
-# api-maager
+# api-manager
